@@ -1,1 +1,5 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eugeek&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://komarev.com/ghpvc/?username=eugeek)
+<hr>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eugeek)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eugeek)](https://github.com/anuraghazra/github-readme-stats)
