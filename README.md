@@ -1,7 +1,9 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/eugeek/" target="_blank">Eugene</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student</h3>
+
 ![](https://komarev.com/ghpvc/?username=eugeek&color=blue)
+
 ## OS
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 
