@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=eugeek&color=blue&style=for-the-badge&&label=VIEWS)
 
-## OS
+## OS:
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 
 ## Languages:
@@ -25,6 +25,6 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eugeek&show_icons=true&theme=moltack&hide=issues,contribs&custom_title='stats')
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eugeek&show_icons=true&theme=nord&hide=issues,contribs&custom_title=My github stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eugeek&langs_count=10&theme=moltack&custom_title='languages')](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eugeek&langs_count=10&theme=nord&custom_title=Languages which I use)](https://github.com/anuraghazra/github-readme-stats)
