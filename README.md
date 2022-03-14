@@ -25,6 +25,6 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eugeek&show_icons=true&theme=moltack&hide=total)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eugeek&show_icons=true&theme=moltack&hide=issues,contribs&hide_title=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eugeek&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
