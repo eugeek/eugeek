@@ -25,6 +25,6 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eugeek&show_icons=true&theme=nord&hide=issues,contribs&custom_title=My_github_stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eugeek&langs_count=10&theme=nord&custom_title=Languages_which_I_use)](https://github.com/anuraghazra/github-readme-stats)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eugeek&show_icons=true&theme=nord&hide=issues,contribs&custom_title=My_github_stats)
 
