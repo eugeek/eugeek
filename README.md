@@ -1,13 +1,8 @@
 
-
-
-### Hello, World 🌎
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=30&duration=3500&color=02E628&vCenter=true&lines=Hello%2C+World!;My+name+is+Eugene.;I'm+a+NodeJS+Developer.)](https://git.io/typing-svg)
 <img src="https://profile-counter.glitch.me/eugeek/count.svg">
 
 [![GitHub followers](https://img.shields.io/github/followers/eugeek.svg?style=social&label=Followers)](https://github.com/eugeek5?tab=followers)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=30&duration=3500&color=02E628&vCenter=true&lines=Hello%2C+World!;My+name+is+Eugene.;I'm+a+NodeJS+Developer.)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=eugeek&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
 
