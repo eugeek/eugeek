@@ -1,6 +1,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=30&duration=3500&color=02E628&vCenter=true&lines=Hello%2C+World!;My+name+is+Eugene.;I'm+a+NodeJS+Developer.)](https://git.io/typing-svg)
-<img src="https://profile-counter.glitch.me/eugeek/count.svg">
+<p>
+ <img src="https://profile-counter.glitch.me/eugeek/count.svg">
+</p>
 
 [![GitHub followers](https://img.shields.io/github/followers/eugeek.svg?style=social&label=Followers)](https://github.com/eugeek5?tab=followers)
 
