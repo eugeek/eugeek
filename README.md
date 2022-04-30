@@ -6,8 +6,6 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/eugeek.svg?style=social&label=Followers)](https://github.com/eugeek5?tab=followers)
 
-<img src="https://komarev.com/ghpvc/?username=eugeek&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
-
 <h3> Here's some fun facts about me: </h3>
 
 - 🔭 I’m currently working on Full-Stack project (React + Express)
