@@ -2,8 +2,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=30&duration=3500&color=02E628&vCenter=true&lines=Hello%2C+World!;My+name+is+Eugene.;I'm+a+NodeJS+Developer.)](https://git.io/typing-svg)
 <h3> Here's some fun facts about me: </h3>
 
+- 🎈 I'm interested in: Computer science, Information security, Networks, Full-Stack development, WebDev, GameDev
 - 🔭 I’m currently working on Full-Stack project (React + Redux + Firebase)
-- 👯 I’m looking to collaborate on Full-stack projects (Node JS), Backend (Express with Mysql/Postgre/Firebase/MongoDB), Front (React)
+- 👯 I’m looking to collaborate on Full-Stack projects (Node JS), Backend (Express with Mysql/Postgre/Firebase/MongoDB), Front (React)
 - 💬 Ask me why you should use Arch Linux
 
 <p>You can connect with me on:
