@@ -4,7 +4,7 @@
 
 - 🎈 I'm interested in: Computer science, Information security, Networks, Full-Stack development, WebDev, GameDev
 - 🔭 I’m currently working on Full-Stack project (React + Redux + Firebase)
-- 👯 I’m looking to collaborate on Full-Stack projects (Node JS), Backend (Express with Mysql/Postgre/Firebase/MongoDB), Front (React)
+- 👯 I’m looking to collaborate on Full-Stack projects (Node JS), Backend (Express with Mysql/Postgre/Firebase/MongoDB), Frontend (React)
 - 💬 Ask me why you should use Arch Linux
 
 <p>You can connect with me on:
