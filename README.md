@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Skechy<br>🌱 I’m currently learning Vanilla JS, React, Express, TypeORM<br>⚡ Fun facts: I calculate fast and write fast
+🔭 I’m currently working on Skechy<br>🌱 I’m currently learning Vanilla JS, React, Express, TypeORM<br>⚡ Fun facts: I calculate and write fast
 
 
 ## 🌐 Socials:
