@@ -1,6 +1,7 @@
 <div align='center'>
-# 💫 About Me:
-🔭 I’m currently working on Skechy<br>🌱 I’m currently learning Node JS, express, react
+  
+# ✨ About Me:
+🚣 I'm a NodeJS Developer<br>🔭 I’m currently working on Skechy<br>🌱 I’m currently learning Node JS, express, react
 
 
 ## 🌐 Socials:
@@ -16,6 +17,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=eugeek&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
 
-### 😂 Random Dev Meme
+## 😂 Random meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 </div>
