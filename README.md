@@ -1,7 +1,7 @@
 <div align='center'>
   
 # ✨ About Me:
-🚣 I'm a NodeJS Developer<br>🔭 I’m currently working on Skechy<br>🌱 I’m currently learning Node JS, express, react
+🚣 I'm a full-stack software engineer<br>🔭 I’m currently working on Skechy<br>🌱 I’m currently learning Node JS, Express, React, TypeORM, PostgreSQL, Web sockets.
 
 
 ## 🌐 Socials:
