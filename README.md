@@ -1,7 +1,7 @@
 <div align='center'>
   
 # ✨ About Me:
-🚣 I'm a full-stack software engineer<br>🔭 I’m currently working on Skechy<br>🌱 I’m currently learning Node JS, Express, React, TypeORM, PostgreSQL, Web sockets.<br>🥄 My operating system is a Arch Linux with KDE Plasma
+🚣 I'm a full-stack software engineer<br>🔭 I’m currently working on Skechy<br>🌱 I’m currently learning Node JS, Express, React, TypeORM, PostgreSQL, Web sockets.<br>🐧 My operating system is a Arch Linux with KDE Plasma
 
 
 ## 🌐 Socials:
@@ -17,6 +17,5 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=eugeek&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
 
-## 😂 Random meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-</div>
+## 🍃 Additionally  
+[![LeetCode user eugeek](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=LeetCode%2C%20I%20solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Feugeek&logo=leetcode&logoColor=yellow)](https://leetcode.com/eugeek/)
