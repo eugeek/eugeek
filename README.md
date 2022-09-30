@@ -13,9 +13,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=eugeek&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=eugeek&theme=gruvbox&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=eugeek&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=eugeek&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
-
-## 🍃 Additionally  
-[![LeetCode user eugeneward](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=LeetCode%20solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Feugeneward&logo=leetcode&logoColor=yellow)](https://leetcode.com/eugeneward/)
