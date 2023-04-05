@@ -1,7 +1,7 @@
 <div align='center'>
   
 # ✨ About Me:
-🚣 I'm a full-stack software engineer<br>🔭 I’m currently working on Skechy<br>🌱 My skills: Node.JS, Express, Nest.JS, Socket.io, React, React Native.<br>🐧 My operating system is a Arch Linux with KDE Plasma
+🚣 I'm a full-stack software engineer<br>🔭 I’m currently working on ...<br>🌱 My skills: Node.JS, Express, Nest.JS, Socket.io, React, React Native.<br>🐧 My operating system is a Arch Linux with KDE Plasma
 
 
 ## 🌐 Socials:
