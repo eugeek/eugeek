@@ -1,6 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hey+there,+coding+community!)](https://git.io/typing-svg)
 ```typescript
-/* Hey! My name is Eugene. Welcome to my github 👋 */
-
 const EugeneWard = new SoftwareEngineer({
   name: 'Eugene Ward',
   age: 21,
@@ -10,20 +9,6 @@ const EugeneWard = new SoftwareEngineer({
   frontendSkills: ['React', 'ReactNative', 'Redux', 'Next.js', 'Firebase', 'AWS', 'TailwindCSS'],
   backendSkills: ['Express.js', 'Socket.io', 'Nest.js', 'PostgreSQL', 'Prisma', 'TypeORM', 'MongoDB'],
   portfolio: 'https://eugeneward.me',
-  projects: [
-    {
-      name: 'Skechy',
-      url: 'https://skechy.web.app',
-    },
-    {
-      name: 'Emill',
-      url: 'https://app.emill.fi',
-    },
-    {
-      name: 'Dun',
-      url: 'https://dun.wtf',
-    }
-  ],
 });
 
 EugeneWard.online = true;
