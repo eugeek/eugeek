@@ -1,18 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hey+there,+coding+community!)](https://git.io/typing-svg)
-```typescript
-const EugeneWard = new SoftwareEngineer({
-  name: 'Eugene Ward',
-  age: 21,
-  company: 'Perspektives | Finland',
-  position: 'Full-stack software engineer',
-  languages: ['JavaScript', 'TypeScript', 'C++'],
-  frontendSkills: ['React', 'ReactNative', 'Redux', 'Next.js', 'Firebase', 'AWS', 'TailwindCSS'],
-  backendSkills: ['Express.js', 'Socket.io', 'Nest.js', 'PostgreSQL', 'Prisma', 'TypeORM', 'MongoDB'],
-  portfolio: 'https://eugeneward.me',
-});
-
-EugeneWard.online = true;
-```
-<p align='center'>
-  <img src='https://forum.exbo.net/assets/files/2021-05-31/1622494102-159134-image.png' />
-</p>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/eugeek">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://github.com/eugeek">
+    <img src="https://img.shields.io/github/followers/eugeek" alt="Youtube Badge"/>
+  </a>
+  <a href="https://eugeneward.me">
+    <img src="https://img.shields.io/website?url=https%3A%2F%2Feugeneward.me" alt="Twitter Badge"/>
+  </a>
+</div>
