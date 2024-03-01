@@ -1,9 +1,9 @@
-<div style="text-align: center; margin-top: 20px;">
+<div style="width: 100%; text-align: center; margin-top: 20px;">
   <div style="margin-bottom: 20px;">
     <a href="https://www.linkedin.com/in/eugeek">
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://eugeneward.me">
+    <a href="https://eugeek.dev">
       <img src="https://img.shields.io/website?url=https%3A%2F%2Feugeneward.me" alt="Twitter Badge"/>
     </a>
     <a href="https://github.com/eugeek">
