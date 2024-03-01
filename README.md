@@ -1,5 +1,5 @@
-<center>
-  <div id="badges">
+<div style="text-align: center; margin-top: 20px;">
+  <div style="margin-bottom: 20px;">
     <a href="https://www.linkedin.com/in/eugeek">
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
@@ -11,5 +11,9 @@
     </a>
   </div>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eugeek&theme=dracula&langs_count=10&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-</center>
+  <div>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eugeek&theme=dracula&langs_count=10&layout=donut" alt="Top Langs"/>
+    </a>
+  </div>
+</div>
