@@ -1,5 +1,6 @@
 <div style="width: 100%; text-align: center; margin-top: 20px;">
-  <div style="margin-bottom: 20px;">
+  <center>
+     <div style="margin-bottom: 20px;">
     <a href="https://www.linkedin.com/in/eugeek">
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
@@ -16,4 +17,5 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eugeek&theme=dracula&langs_count=10&layout=donut" alt="Top Langs"/>
     </a>
   </div>
+  </center>
 </div>
