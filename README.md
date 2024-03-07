@@ -1,4 +1,3 @@
-
 <div style="display: flex;">
   <div style="width: 50%;">
     <a href="https://www.linkedin.com/in/eugeek">
