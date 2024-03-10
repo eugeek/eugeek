@@ -1,4 +1,4 @@
-<div style="display: flex;">
+<div>
   <div style="width: 50%;">
     <a href="https://www.linkedin.com/in/eugeek">
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
