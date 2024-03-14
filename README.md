@@ -13,7 +13,6 @@
   
 </div>
 <div style="display: flex;">
-   <img src='https://github-readme-stats.vercel.app/api?username=eugeek&show_icons=true&theme=dracula' />
    <img  src='https://github-readme-streak-stats.herokuapp.com/?user=eugeek&theme=dracula' />
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eugeek&theme=dracula&langs_count=10&layout=donut" alt="Top Langs"/>
 </div>
