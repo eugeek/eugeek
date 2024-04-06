@@ -1,3 +1,3 @@
-```bash
+```shell
 $ Amm, hello, you are welcome...
 ```
