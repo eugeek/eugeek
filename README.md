@@ -1,3 +1,3 @@
 ```
-$ Amm, hello, you are welcome...
+$ Amm, hello world!
 ```
