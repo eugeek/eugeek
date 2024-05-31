@@ -1,1 +1,1 @@
-Welcome hackers!
+Welcome, hackers!
