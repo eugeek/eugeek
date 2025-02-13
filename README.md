@@ -1,1 +1,1 @@
-[*click*](https://eugeek.dev)
+[*website*](https://eugeek.dev)
