@@ -1,5 +1,2 @@
-<a href="https://eugeek.dev">*My website*</a>
-
-<img src="https://www.codewars.com/users/eugeek/badges/large" />
-
+Hi, I'm using whatsapp!
 ![LeetCode Stats](https://leetcard.jacoblin.cool/eugeneward)
